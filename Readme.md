@@ -1,5 +1,5 @@
 ﻿#
-## Fruit　Cut Game 概要
+## Fruit　Cut Game      概要
 このIssuesは、FruitsCutGameの改良タスク実装一覧です。
 
 ## タスク
